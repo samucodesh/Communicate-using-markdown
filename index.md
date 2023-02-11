@@ -30,4 +30,5 @@ fmt.Println("Value:", value)
 
 value1, _ := doubleReturn(2)
 fmt.Println("value1", value1)
+}
 ```
