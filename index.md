@@ -32,3 +32,8 @@ value1, _ := doubleReturn(2)
 fmt.Println("value1", value1)
 }
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
